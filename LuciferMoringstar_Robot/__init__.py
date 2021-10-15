@@ -28,10 +28,10 @@ Bot Owner Only
 """
 
 ABOUT = """
-➥ Name :  Auto Filter V3
+➥ Name :  Charlie333_bot
     
-➥ Creator : [Naughty PROFESSOR](
-https://youtube.com/c/NaughtyPROFESSOR)
+➥ Creator : [Jikku333](
+https://t.me/joinchat/rP2J5aSvTvk3YmM1)
 
 ➥ Language : Python3
 
